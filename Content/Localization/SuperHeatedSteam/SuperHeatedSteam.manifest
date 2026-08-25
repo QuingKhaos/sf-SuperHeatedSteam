@@ -1,0 +1,23 @@
+{
+	"FormatVersion": 1,
+	"Namespace": "",
+	"Subnamespaces": [
+		{
+			"Namespace": "SuperHeatedSteam",
+			"Children": [
+				{
+					"Source":
+					{
+						"Text": "Super Heated Steam"
+					},
+					"Keys": [
+						{
+							"Key": "SuperHeatedSteam/Name",
+							"Path": "/SuperHeatedSteam/ST_SuperHeatedSteam.ST_SuperHeatedSteam"
+						}
+					]
+				}
+			]
+		}
+	]
+}
