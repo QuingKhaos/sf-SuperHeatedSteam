@@ -16,6 +16,13 @@
 	"IsExperimentalVersion": false,
 	"Installed": false,
 	"BuiltInInitialFeatureState": "Active",
+	"LocalizationTargets": [
+		{
+			"Name": "SuperHeatedSteam",
+			"LoadingPolicy": "Always",
+			"ConfigGenerationPolicy": "Never"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "SML",
