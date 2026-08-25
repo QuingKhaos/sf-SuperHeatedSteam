@@ -3,6 +3,8 @@ Version: 1.0.1
 Date: ???
   Changes:
     - Correctly spell it as "Superheated Steam".
+  Locale:
+    - Complete German translation.
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2026-08-25
