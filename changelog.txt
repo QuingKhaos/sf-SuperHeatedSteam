@@ -1,6 +1,6 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.1
-Date: ???
+Date: 2026-08-25
   Changes:
     - Correctly spell it as "Superheated Steam".
     - Reset collect speed multiplier, as it is ignored by e.g. the geothermal steam generator.
