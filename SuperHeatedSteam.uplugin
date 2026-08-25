@@ -3,42 +3,20 @@
 	"Version": 1,
 	"VersionName": "1.0.0",
 	"SemVersion": "1.0.0",
-	"FriendlyName": "###TITLE###",
-	"Description": "###DESC###",
+	"FriendlyName": "Super Heated Steam",
+	"Description": "Small library mod providing the Super Heated Steam item descriptor for usage by various mods.",
 	"Category": "Modding",
 	"CreatedBy": "QuingKhaos",
 	"CreatedByURL": "https://github.com/QuingKhaos",
 	"DocsURL": "",
-	"MarketplaceURL": "https://ficsit.app/mod/###NAME###",
+	"MarketplaceURL": "https://ficsit.app/mod/SuperHeatedSteam",
 	"SupportURL": "https://discord.gg/B3qJBE3M9W",
 	"CanContainContent": true,
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
 	"BuiltInInitialFeatureState": "Active",
-	"Modules": [
-		{
-			"Name": "###NAME###",
-			"Type": "Runtime",
-			"LoadingPhase": "Default"
-		}
-	],
 	"Plugins": [
-		{
-			"Name": "KBFL",
-			"Enabled": true,
-			"SemVersion": "^2026.3.500"
-		},
-		{
-			"Name": "KDataForge",
-			"Enabled": true,
-			"SemVersion": "^2026.3.497"
-		},
-		{
-			"Name": "KhaosLib",
-			"Enabled": true,
-			"SemVersion": "^1.2.2"
-		},
 		{
 			"Name": "SML",
 			"Enabled": true,
