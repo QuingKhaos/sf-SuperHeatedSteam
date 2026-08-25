@@ -4,7 +4,7 @@
 	"VersionName": "1.0.0",
 	"SemVersion": "1.0.0",
 	"FriendlyName": "Super Heated Steam",
-	"Description": "Small library mod providing the Super Heated Steam item descriptor for usage by various mods.",
+	"Description": "Small library mod providing the Super Heated Steam resource descriptor for usage by various mods.",
 	"Category": "Modding",
 	"CreatedBy": "QuingKhaos",
 	"CreatedByURL": "https://github.com/QuingKhaos",

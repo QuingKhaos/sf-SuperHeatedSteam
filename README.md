@@ -2,7 +2,7 @@
 
 # Super Heated Steam
 
-Small library mod providing the Super Heated Steam item descriptor for usage by various mods. Does nothing on its own.
+Small library mod providing the Super Heated Steam resource descriptor for usage by various mods. Does nothing on its own.
 
 ## License
 
